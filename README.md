@@ -65,6 +65,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- [Arthur Simeon](https://github.com/TM-Simeon/) ~ [LinkedIn](https://www.linkedin.com/in/terdoo-simeon-30b38812a/) ~ [@arthurdamm](https://twitter.com/arthurdamm):
+- [Arthur Simeon](https://github.com/TM-Simeon/) ~ [LinkedIn](https://www.linkedin.com/in/terdoo-simeon-30b38812a/):
 *learning Software engineering at ALX School of Software Engineering. I have a lifelong passion for programming with a background in mathematics and a daily meditation practice. Spent the last several years enjoying working as a private tutor and am now excited to practice software wizardry professionally.*
-- **Laura Roudge** - [laura.derohan@gmail.com](https://github.com/lroudge)
+- **Mnaan Simeon** - [mnaan.simeon@st.futminna.edu.ng](https://github.com/TM-Simeon)
